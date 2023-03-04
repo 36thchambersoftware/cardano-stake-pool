@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/36thchambersoftware/cardano-stake-pool/main/logo64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/36thchambersoftware/cardano-stake-pool/main/logo.png",
         "location": "Illinois, USA",
         "social": {
             "twitter_handle": "PREEB_Pool",
