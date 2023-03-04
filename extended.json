@@ -1,0 +1,32 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Illinois, USA",
+        "social": {
+            "twitter_handle": "PREEB_Pool",
+            "telegram_handle": "@PREEBPool",
+            "facebook_handle": "preebpool",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "preeb#3022",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "PREEB",
+            "addr": "",
+            "city": "",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater.",
+            "server": "Upgraded mini PCs",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "2873902b027727676630f3c9c63830183049b7e09998bd7b90114e13"
+      }
+    }
+}
